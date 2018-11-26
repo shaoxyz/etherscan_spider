@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+tmp.py
+vege.py
+*.log
+.Scripts/
+.Lib/
